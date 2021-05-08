@@ -101,7 +101,6 @@ namespace SecurityLibrary
 
             Console.WriteLine(plainText);
             return plainText;
-
             throw new NotImplementedException();
         }
 
